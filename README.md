@@ -28,7 +28,7 @@ Here’s how it looks:
 
 ## 🚀 Live Demo
 You can view the project live here:  
-👉 [My First Website](file:///C:/Users/WAFAco/Desktop/my_first_webpage/index.html)
+👉 [My First Website](https://islamalaw3r.github.io/my-first-website/)
 
 ---
 
